@@ -1,14 +1,15 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div class="qa-container">
+    问答
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'QaIndex'
 }
 </script>
-<style lang="less" scoped>
+
+<style>
 
 </style>
